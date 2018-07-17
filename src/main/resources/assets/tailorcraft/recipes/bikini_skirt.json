@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "LRL",
+        "R R",
+        "R R"
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "tailorcraft:cloth"
+        },
+        "L":
+        {
+            "item": "tailorcraft:cloth_strip"
+        }
+    },
+   
+    "result":
+    {
+        "item": "tailorcraft:bikini_skirt",
+        "count": 1
+    }
+}

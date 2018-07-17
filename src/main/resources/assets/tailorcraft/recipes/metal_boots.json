@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "   ",
+        "R R",
+        "L L"
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "tailorcraft:reinforced_cloth"
+        },
+        "L":
+        {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+   
+    "result":
+    {
+        "item": "tailorcraft:metal_boots",
+        "count": 1
+    }
+}

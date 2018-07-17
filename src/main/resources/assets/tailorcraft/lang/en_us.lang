@@ -1,0 +1,42 @@
+
+//Items
+item.cloth.name=Cloth
+item.cloth_strip.name=Cloth Strip
+item.leather_pad.name=Leather Pad
+item.leather_strip.name=Leather Strip
+item.reinforced_cloth.name=Reinforced Cloth
+
+//Armor
+    //bikini armor
+item.bikini_chest.name= Bikini Bra
+item.bikini_skirt.name= Bikini Skirt
+    //metal armor
+item.metal_chest.name= Metal Chestplate
+item.metal_boots.name= Metal Boots
+item.metal_pants.name= Metal Pants
+item.metal_head.name= Metal Helmet
+    //Puratina armor
+item.puratina_chest.name= Puratina Chestplate
+item.puratina_boots.name= Puratina Boots
+item.puratina_head.name= Puratina Helmet
+    //Misuriru armor
+item.misuriru_chest.name= Misuriru chestplate
+item.misuriru_boots.name= Misuriru Boots
+item.misuriru_head.name= Misuriru Helmet
+    //Hagane Armor
+item.hagane_chest.name= Hagane Chestplate
+item.hagane_boots.name= Hagane Boots
+item.hagane_pants.name= Hagane Pants
+item.hagane_head.name= Hagane Head
+    //Hagane Armor
+item.hagane_chest.name= Hagane Chestplate
+item.hagane_boots.name= Hagane Boots
+item.hagane_head.name= Hagane Head
+    //ryuukisi Armor
+item.ryuukisi_chest.name= Ryuukisi Chestplate
+item.ryuukisi_boots.name= Ryuukisi Boots
+item.ryuukisi_head.name= Ryuukisi Head
+    //tenku Armor
+item.tenku_chest.name= Tenku Chestplate
+item.tenku_boots.name= Tenku Boots
+item.tenku_head.name= Tenku Head

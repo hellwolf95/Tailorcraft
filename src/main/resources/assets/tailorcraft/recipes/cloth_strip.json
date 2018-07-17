@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "tailorcraft:cloth"
+    },
+ 
+    {
+      "item": "minecraft:flint"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "tailorcraft:cloth_strip",
+        "count": 3
+    }
+}

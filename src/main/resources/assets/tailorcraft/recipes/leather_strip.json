@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+        [
+            {
+              "item": "tailorcraft:leather_pad"
+            },
+         
+            {
+              "item": "minecraft:flint"
+            }
+        ],
+ 
+    "result":
+    {
+        "item": "tailorcraft:leather_strip",
+        "count": 3
+    }
+}
